@@ -1,0 +1,17 @@
+.post-caategories{
+    display: inline-block;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.container{
+    display: flex;
+}
+
+.first{
+    width: 70%;
+}
+
+.second{
+    width: 30%;
+}
